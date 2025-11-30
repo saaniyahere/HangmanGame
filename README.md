@@ -1,2 +1,2 @@
 # HangmanGame
-A game project for our object-oriented-programming class
+Hangman game built with OOP's and Raylib 😒👻
